@@ -30,6 +30,8 @@ Each CDN's IP ranges are detailed in JSON files, such as `cloudflare.json`, whic
 2. Implement the IP range lists into your systems or tools.
 3. Customize your network or firewall settings as needed.
 
+## JSON File Integration
+
 To directly integrate the JSON files into your applications or scripts, access the raw content using these URLs:
 
 - Cloudflare IP ranges
